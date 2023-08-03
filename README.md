@@ -1,4 +1,4 @@
 # 3d_protfolio
-My Demo Protfolio.
- Create With Reat + Vito
+My Demo Portfolio.
+ Create With React + Vito
   Clone It And npm run Dev to run this project.
